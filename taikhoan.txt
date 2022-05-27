@@ -1,0 +1,28 @@
+Lớp Java _ Thứ 5 - Tiết 9 10
+Đề tài: Ứng dụng quản lý cửa hàng thức ăn nhanh
+
+Các tài khoản hiện tại trong ứng dụng:
+
+- Tài khoản admin: 
+	+ Username: admin@gmail.com
+	  Password: admin
+
+- Các tài khoản user:
+	+ Username: hung@gmail.com
+	  Password: hung123
+
+	+ Username: son@gmail.com	
+	  Password: son123
+
+	+ Username: thien@gmail.com	
+	  Password: thien123
+
+	+ Username: dung@gmail.com	
+	  Password: dung123
+
+	+ Username: sang@gmail.com
+	  Password: sang123
+
+	+ Username: trang@gmail.com
+	  Password: trang123
+	
